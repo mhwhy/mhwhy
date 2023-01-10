@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @mhwhy
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Muhammad Wahyu
+- 👀 I'm attracted to anything that's fun
+- 🌱 I'm studying at SMAKN 2 Trenggalek
+
+- 📫 How to contact me via instagram @mhwhys_
 
 <!---
 mhwhy/mhwhy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
